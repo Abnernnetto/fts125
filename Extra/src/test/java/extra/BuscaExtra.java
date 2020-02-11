@@ -42,7 +42,7 @@ public class BuscaExtra {
 	@Before
 	public void Iniciar() {
 		System.setProperty("webdriver.chrome.driver", 
-				"C:\\Users\\abn_n\\eclipse-workspace\\Google\\Extra\\drivers\\chrome\\79\\chromedriver.exe");
+				"C:\\Users\\abn_n\\eclipse-workspace\\Google\\Extra\\drivers\\chrome\\80\\chromedriver.exe");
 		
 		url = "https://www.submarino.com.br";
 		driver = new ChromeDriver();
